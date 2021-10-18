@@ -1,0 +1,11 @@
+{
+  "name": "test-server-sent-event",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "static-server",
+    "server",
+    "client"
+  ]
+}
